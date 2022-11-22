@@ -1,4 +1,4 @@
-# Ejercicios Terraform 🐍
+# Ejercicios Terraform 🗼
 
 Ejercicios utilizando la herramienta Terraform para la realización de despliegues automatizados de Infraestructura como código (IaC).
 

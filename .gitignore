@@ -4,6 +4,7 @@
 # Directorios  locales .terraform, aqui terraform descarga modulos de proveedor y otros,
 # estas carpetas crece mucho en tamaño con todos los modulos de nuestros proveedores.
 **/.terraform/*
+.terraform.**
 
 # Archivos .tfstate, cuando Terraform guarda el estado localmente, otras personas
 # usarán sus propios estados para sus ambientes de infra.
